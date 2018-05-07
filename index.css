@@ -1,0 +1,91 @@
+div#temp{
+	color:black;
+	font-weight: italic;
+}
+
+
+p#alert{
+	color:blue;
+	font-weight:bold;
+	background;#FFFF66;/*yellow*/
+	border: 2px solid black; 
+	padding: 1em;
+}
+p#overview{
+	color:blue;
+	font-weight: bold;
+	background;#FFFF66;/*yellow*/
+	borer: 2px solid black;
+	padding: 1em;
+}
+
+
+div#skipnav{
+	color: black
+	font-weight: bold;
+	background; #FFFF66;/*yellow*/
+	border: 2px solid black;
+	padding: 1em; 
+}
+
+body{
+	width:70%;
+	margin: 0 auto;/* horizontal center */
+	
+	border: thick solid black;
+	padding: 1em; 
+}
+
+img {
+	max-width: 100%;
+}
+
+div.info{
+	width: 40%;
+	font-size: 1.2em;
+	float: left;
+}
+
+nav{
+	clear:left;
+}
+
+
+div.review{
+  background-color:E6EBF5;/*pink*/
+  border: 2px solid #003399; /*red*/
+} 
+p.summary{
+	font-style: italic;
+} 
+
+/* navigation menu styles */
+
+nav ul{
+	list-style-type:none;
+}
+
+nav ul li{
+	float:left;
+	margin-right:0.5em;
+}
+
+nav ul li a{
+	padding: 0.25em 1em;
+	text-decoration: none;/*no underline*/
+	background-color:#EBF5FF;/*pale bluish white*/
+	color:#4312AE;/*dark blue*/
+	border: 2px solid black
+	border-top-left-radius: 1em 1em;/* rounded corner!*/
+}
+
+nav ul li a:hover, nav ul li a: focus{
+	color:black;
+	font-weight:bold;
+}
+
+
+
+
+
+

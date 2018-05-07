@@ -1,0 +1,5 @@
+p#alert{
+	color: red;
+	font-weight: bold;
+	border: 2px solid black;
+	padding: 1em
