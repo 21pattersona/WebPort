@@ -10,6 +10,7 @@ p#alert{
 	background;#FFFF66;/*yellow*/
 	border: 2px solid black; 
 	padding: 1em;
+	clear:left 
 }
 p#overview{
 	color:blue;
