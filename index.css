@@ -1,3 +1,9 @@
+body{
+	width:70%;
+	border: thick solid black;
+	padding: 1em; 
+	background-color: Violet;
+}
 div#temp{
 	color:black;
 	font-weight: italic;
@@ -28,13 +34,6 @@ div#skipnav{
 	border: 2px solid black;
 	padding: 1em; 
 }
-
-body{
-	width:70%;
-	border: thick solid black;
-	padding: 1em; 
-}
-
 img {
 	max-width: 100%;
 }
