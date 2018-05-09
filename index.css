@@ -2,6 +2,7 @@ body{
 	width:70%;
 	border: thick solid black;
 	padding: 1em; 
+	margin: auto;
 	background-color: Violet;
 }
 div#temp{
