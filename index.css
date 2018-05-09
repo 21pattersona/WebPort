@@ -9,8 +9,6 @@ p#alert{
 	font-weight:bold;
 	background;#FFFF66;/*yellow*/
 	border: 2px solid black; 
-	padding: 1em;
-	Margin-left:0 px;
 }
 p#overview{
 	color:blue;
