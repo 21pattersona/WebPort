@@ -31,8 +31,6 @@ div#skipnav{
 
 body{
 	width:70%;
-	margin: 0 auto;/* horizontal center */
-	
 	border: thick solid black;
 	padding: 1em; 
 }
